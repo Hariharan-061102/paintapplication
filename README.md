@@ -250,7 +250,7 @@ function yellowClicked() {
 
 ## OUTPUT:
 
-![output](https://github.com/Hariharan-061102/paintapplication/blob/main/x.jpg)
+![output](x.jpg)
 
 ## Result:
 
