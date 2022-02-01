@@ -250,7 +250,7 @@ function yellowClicked() {
 
 ## OUTPUT:
 
-![output](x.jpg)
+![output](x.png)
 
 ## Result:
 
